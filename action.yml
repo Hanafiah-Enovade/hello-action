@@ -1,0 +1,7 @@
+name: 'Hello GitHub Action'
+description: 'GitHub Action using node.js'
+author: 'Hanafiah <hanafiah@enovade.com>'
+
+runs:
+  using: 'node16'
+  main: 'index.js'
